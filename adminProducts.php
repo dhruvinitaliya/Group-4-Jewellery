@@ -110,15 +110,9 @@ if($_SESSION["admin"]==false){
             <li class="nav-item">
             <a class="nav-link" href="logout.php"> <i class="fas fa-sign-out-alt"></i> Logout</a>
             </li>
-
-            
-
               <?php
             }
 ?>
-
-           
-     
         </ul>
     </div>
 </nav>
